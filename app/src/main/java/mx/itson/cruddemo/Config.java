@@ -3,7 +3,7 @@ package mx.itson.cruddemo;
 public class Config {
 
     //Data URL
-    public static final String DATA_URL = "http://potrosport.pitalla.mx/registrarPrueba.php";
+    public static final String DATA_URL = "http://potrosport.pitalla.mx/mostrarPruebaNew.php?";
 
     //JSON TAGS
     public static final String TAG_ALUMNO = "alumno";
