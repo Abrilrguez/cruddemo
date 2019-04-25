@@ -3,15 +3,6 @@ package mx.itson.cruddemo;
 public class Prueba2 {
     String idRegistroPrueba, nombre, fecha, distancia, vueltas;
 
-    public Prueba2(String idRegistroPrueba, String nombre, String fecha,
-                   String distancia, String vueltas){
-        this.idRegistroPrueba = idRegistroPrueba;
-        this.nombre = nombre;
-        this.fecha = fecha;
-        this.distancia = distancia;
-        this.vueltas = vueltas;
-    }
-
     public String getIdRegistroPrueba() {
         return idRegistroPrueba;
     }
